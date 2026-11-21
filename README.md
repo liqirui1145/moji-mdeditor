@@ -4,7 +4,7 @@
 
 无需联网、无需账号、没有后端；所有草稿只保存在当前浏览器的本地存储中。
 
-[在线体验](https://liqirui1145.github.io/moji-markdown-editor/) · [GitHub 源码](https://github.com/liqirui1145/moji-markdown-editor)
+[在线体验](https://liqirui1145.github.io/moji-mdeditor/) · [GitHub 源码](https://github.com/liqirui1145/moji-mdeditor)
 
 ![墨记编辑器界面](preview.png)
 
